@@ -1,0 +1,19 @@
+name: nlp
+channels:
+  - defaults
+  - pytorch
+  - nvidia
+dependencies:
+  - pytorch-cuda=11.7
+  - torchvision
+  - torchaudio
+  - python=3.9
+  - jupyter
+  - numpy
+  - pytorch
+  - matplotlib
+  - pandas
+  - pip
+  - pip:
+    - -r requirements.txt
+prefix: /home/tobi/miniconda3/envs/nlp
