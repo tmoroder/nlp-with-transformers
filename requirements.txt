@@ -1,3 +1,4 @@
 transformers[torch,sentencepiece,vision,optuna,sklearn,onnxruntime]
 datasets[audio]
 umap-learn
+bertviz
