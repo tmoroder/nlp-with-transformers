@@ -5,6 +5,8 @@ This is my repo to reproduce and to code snippets from the transformers book:
 
 My expectations are to obtain a better and coherent background on current SOTA techniques in NLP and related topcis.
 
+I created a Huggingface account: [tmoroder](https://huggingface.co/tmoroder)
+
 # Environment
 
 I am using Ubuntu-22.04 on WSL2:
