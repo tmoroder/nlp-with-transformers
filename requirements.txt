@@ -3,3 +3,7 @@ datasets[audio]
 umap-learn
 bertviz
 seqeval
+nltk
+sacrebleu
+rouge_score
+py7zr
